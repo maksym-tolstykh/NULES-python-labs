@@ -1,0 +1,2 @@
+На мові Python створити програму, яка зчитує із текстового файлу перше речення. Виводить його на екран. Create a report in PDF format.  Потім виводить на екран всі слова даного тексту, відсортовані по алфавіту (без знаків пунктуації) Create a requirements.txt file that stores all installed modules and packages.   і кількість слів.
+
