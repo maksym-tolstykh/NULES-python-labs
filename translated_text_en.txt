@@ -1,0 +1,4 @@
+Перекладено на мову: English
+Перекладений текст:
+In Python, create a program that reads the first sentence from the text file.Bring it on the screen.In Python, create a program that reads the first sentence from the text file.Bring it on the screen.Create a report in pdf format.It then displays all the words of this text, sorted by the alphabet (without punctuation signs) Create a requirements.txt file that stores all Installed Modules and Packages.and the number of words.
+In Python, create a program that reads the first sentence from the text file.Bring it on the screen.Create a report in pdf format.It then displays all the words of this text, sorted by the alphabet (without punctuation signs) Create a requirements.txt file that stores all Installed Modules and Packages.and the number of words.
